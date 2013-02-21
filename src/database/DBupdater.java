@@ -102,6 +102,8 @@ public class DBupdater {
 //		test.printTabell();
 	}
 
+	// DENNE BRUKES KUN TIL TESTING. FOR UTSKRIFT, SE ShowIPDB.java
+	
 	public void printTabell(){
 
 		try {
