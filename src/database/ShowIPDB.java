@@ -23,8 +23,8 @@ public class ShowIPDB extends JPanel {
 	private Connection con;
 	private ResultSet resultater;
 	public static final String url = "jdbc:mysql://mysql.stud.ntnu.no";
-	private static final String username = "rikardbe_bruker";
-	private static final String password = "rikeid90";
+	private static final String username = "KLOVN";
+	private static final String password = "DUST";
 	private JPanel panel;
 	private JScrollPane scroller;
 	
